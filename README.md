@@ -7,8 +7,6 @@
 
 ## How to run
 
-Make sure you are using node v12
-
 ```
 
 npm i
